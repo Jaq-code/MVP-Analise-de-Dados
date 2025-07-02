@@ -41,4 +41,3 @@ O dataset contém atributos físico-químicos como teor alcoólico, acidez, dens
 ## Estrutura e Ambiente do Projeto
 
 O notebook foi inicialmente desenvolvido no **Visual Studio Code** e, posteriormente, executado no **Google Colab**.
----
