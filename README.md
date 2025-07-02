@@ -1,5 +1,10 @@
 
 # MVP Análise de Dados - Qualidade dos Vinhos
+**Nome:** Jaqueline Paciêlo Dantas
+
+**Matrícula:** 4052025000151
+
+**Dataset:** [Wine Quality df](https://archive.ics.uci.edu/df/186/wine+quality)
 
 ## Descrição do Projeto
 
@@ -35,5 +40,5 @@ O dataset contém atributos físico-químicos como teor alcoólico, acidez, dens
 
 ## Estrutura e Ambiente do Projeto
 
-O notebook foi inicialmente desenvolvido no **Visual Studio Code** e, posteriormente, executado no **Google Colab** para facilitar o compartilhamento e a execução do código.
-
+O notebook foi inicialmente desenvolvido no **Visual Studio Code** e, posteriormente, executado no **Google Colab**.
+---
